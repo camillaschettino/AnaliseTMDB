@@ -1,0 +1,6 @@
+tensorflow==2.2
+sklearn
+numpy
+pandas
+matplotlib
+seaborn
